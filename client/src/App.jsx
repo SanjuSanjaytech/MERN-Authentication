@@ -5,7 +5,7 @@ import Profile from './components/Profile';
 import Signin from './components/Signin';
 import Signup from './components/Signup';
 import Navbar from './headerfixed/Navbar';
-import PrivateRoute from './private/privateRoute';
+import PrivateRoute from './private/PrivateRoute';
 
 
 
