@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <div className='border-b border-neutral-500 mx-5'>
         <div className='flex justify-between items-center p-5 mx-w-6xl mx-auto '>
-            <Link to='/'>
+            <Link to='/home'>
                 <h1 className='text-2xl text-red-300 font-bold'>Auth</h1>
             </Link>
             <ul className='flex items-center space-x-5 text-white'>
